@@ -1,3 +1,5 @@
+# Tables des matières
+
 ## 0. [Ce qu'il faut savoir avant de commencer](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forBases.ipynb)
 ## 1. [Manipulation des nombres aléatoires](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forRandom.ipynb)
 ## 2. [Les listes](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forLists.ipynb)
