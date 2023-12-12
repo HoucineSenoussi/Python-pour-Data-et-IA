@@ -1,2 +1,7 @@
 ## 0. [Ce qu'il faut savoir avant de commencer](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forBases.ipynb)
-1. 
+## 1. [Manipulation des nombres aléatoires](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forBases.ipynb)
+## 2. [Les listes](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forBases.ipynb)
+## 3. [Les dictionnaires](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forBases.ipynb)
+## 4. [Les tableaux uni et multi-dimentionnels (1)](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forBases.ipynb)
+## 5. [Les tableaux uni et multi-dimentionnels (2)](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forBases.ipynb)
+## 6. [Ce qu'il faut savoir avant de commencer](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forBases.ipynb)
