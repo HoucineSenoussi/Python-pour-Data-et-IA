@@ -7,3 +7,5 @@
 ## 4. [Les tableaux uni et multi-dimentionnels (1)](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forArrays.ipynb)
 ## 5. [Les tableaux uni et multi-dimentionnels (2)](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forArrays2.ipynb)
 ## 6. [Le tri](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forSort.ipynb)
+## 7. [Appliquer une fonction à un ensemble de données](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/formapetapply.ipynb)
+
