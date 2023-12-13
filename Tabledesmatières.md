@@ -8,4 +8,5 @@
 ## 5. [Les tableaux uni et multi-dimentionnels (2)](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forArrays2.ipynb)
 ## 6. [Le tri](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forSort.ipynb)
 ## 7. [Appliquer une fonction à un ensemble de valeurs](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/formapetapply.ipynb)
+## 8. [Créer, entraîner et tester un réseau de neurones](https://github.com/HoucineSenoussi/Python-pour-Data-et-IA/blob/main/forRNA.ipynb)
 
